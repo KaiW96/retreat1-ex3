@@ -1,5 +1,5 @@
 # Uncomment these imports when you'd like to test:
-#from caesar import encode_caesar, decode_caesar
+from caesar import encode_caesar, decode_caesar
 #from shuffle import encode_shuffle, decode_shuffle
 #from vigenere import encode_vigenere, decode_vigenere
 
